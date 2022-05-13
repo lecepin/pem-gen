@@ -2,5 +2,23 @@
   "dependencies": {
     "mkdirp": "^1.0.4",
     "pem": "^1.14.6"
-  }
+  },
+  "name": "pem-gen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lecepin/pem-gen.git"
+  },
+  "author": "lecepin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lecepin/pem-gen/issues"
+  },
+  "homepage": "https://github.com/lecepin/pem-gen#readme",
+  "description": ""
 }
